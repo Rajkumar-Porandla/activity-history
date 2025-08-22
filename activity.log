@@ -1,1 +1,2 @@
 [2025-08-22 13:46:39] fix: handle edge case in state management
+[2025-08-22 18:50:01] style: format codebase with linter standards
