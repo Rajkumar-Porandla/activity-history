@@ -11,3 +11,4 @@
 [2025-08-24 15:12:49] test: add unit test coverage for core components
 [2025-08-25 09:03:57] chore: update dependencies and build scripts
 [2025-08-25 17:16:26] refactor: streamline async workflows and coroutines
+[2025-08-25 11:49:58] docs: refine project documentation and setup guides
