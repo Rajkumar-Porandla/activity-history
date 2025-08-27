@@ -18,3 +18,4 @@
 [2025-08-26 15:03:58] docs: update architecture notes and diagrams
 [2025-08-27 12:29:12] docs: refine project documentation and setup guides
 [2025-08-27 19:48:56] feat: enhance UI responsiveness and theme tokens
+[2025-08-27 11:34:58] fix: resolve null check and boundary conditions
