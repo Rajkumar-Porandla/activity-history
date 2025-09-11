@@ -58,3 +58,4 @@
 [2025-09-11 12:03:53] refactor: improve modularity and clean code structure
 [2025-09-11 09:25:21] style: format codebase with linter standards
 [2025-09-11 16:50:08] feat: experiment with model training configurations
+[2025-09-11 16:15:06] test: add unit test coverage for core components
