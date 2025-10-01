@@ -99,3 +99,4 @@
 [2025-09-29 11:02:25] chore: update dependencies and build scripts
 [2025-09-29 11:59:37] fix: resolve null check and boundary conditions
 [2025-09-29 12:57:48] feat: enhance UI responsiveness and theme tokens
+[2025-10-01 10:57:57] feat: update API endpoint interfaces
