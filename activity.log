@@ -114,3 +114,4 @@
 [2025-10-04 09:10:52] docs: update architecture notes and diagrams
 [2025-10-04 11:35:11] feat: experiment with model training configurations
 [2025-10-06 19:12:08] chore: update dependencies and build scripts
+[2025-10-06 17:06:03] feat: implement helper functions and utilities
