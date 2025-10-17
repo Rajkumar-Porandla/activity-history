@@ -141,3 +141,4 @@
 [2025-10-15 20:20:11] test: add unit test coverage for core components
 [2025-10-15 17:54:06] docs: update architecture notes and diagrams
 [2025-10-16 15:05:15] test: add unit test coverage for core components
+[2025-10-17 13:12:11] refactor: streamline async workflows and coroutines
