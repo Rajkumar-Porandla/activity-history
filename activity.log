@@ -149,3 +149,4 @@
 [2025-10-18 18:38:04] docs: update architecture notes and diagrams
 [2025-10-20 20:53:31] feat: update API endpoint interfaces
 [2025-10-21 10:37:17] test: add unit test coverage for core components
+[2025-10-21 09:43:47] chore: update dependencies and build scripts
