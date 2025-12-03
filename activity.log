@@ -255,3 +255,4 @@
 [2025-12-02 15:39:44] chore: update dependencies and build scripts
 [2025-12-02 19:37:36] chore: update dependencies and build scripts
 [2025-12-03 09:45:43] fix: resolve null check and boundary conditions
+[2025-12-03 14:47:44] feat: enhance UI responsiveness and theme tokens
