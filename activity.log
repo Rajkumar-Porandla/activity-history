@@ -322,3 +322,4 @@
 [2025-12-24 17:41:55] style: format codebase with linter standards
 [2025-12-25 18:39:58] fix: handle edge case in state management
 [2025-12-25 11:23:48] feat: enhance UI responsiveness and theme tokens
+[2025-12-29 10:01:11] docs: update architecture notes and diagrams
