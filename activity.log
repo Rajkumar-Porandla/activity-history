@@ -333,3 +333,4 @@
 [2025-12-31 22:36:51] feat: experiment with model training configurations
 [2026-01-02 09:06:36] style: format codebase with linter standards
 [2026-01-02 17:43:29] refactor: improve modularity and clean code structure
+[2026-01-02 18:13:52] test: add unit test coverage for core components
