@@ -362,3 +362,4 @@
 [2026-01-12 19:17:40] docs: update architecture notes and diagrams
 [2026-01-12 22:48:09] chore: update dependencies and build scripts
 [2026-01-12 18:17:55] docs: update architecture notes and diagrams
+[2026-01-13 21:54:43] refactor: streamline async workflows and coroutines
