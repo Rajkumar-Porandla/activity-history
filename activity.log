@@ -388,3 +388,4 @@
 [2026-01-20 12:48:42] refactor: improve modularity and clean code structure
 [2026-01-21 18:55:33] chore: update dependencies and build scripts
 [2026-01-21 12:47:33] refactor: streamline async workflows and coroutines
+[2026-01-21 16:32:28] feat: update API endpoint interfaces
