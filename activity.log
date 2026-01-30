@@ -407,3 +407,4 @@
 [2026-01-29 15:20:18] fix: resolve null check and boundary conditions
 [2026-01-30 17:49:35] feat: enhance UI responsiveness and theme tokens
 [2026-01-30 21:33:22] feat: enhance UI responsiveness and theme tokens
+[2026-01-30 19:47:24] test: add unit test coverage for core components
