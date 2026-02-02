@@ -416,3 +416,4 @@
 [2026-01-31 19:47:41] chore: update dependencies and build scripts
 [2026-01-31 20:51:31] docs: update architecture notes and diagrams
 [2026-02-02 17:32:10] fix: resolve null check and boundary conditions
+[2026-02-02 19:24:04] docs: refine project documentation and setup guides
