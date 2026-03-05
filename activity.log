@@ -526,3 +526,4 @@
 [2026-03-04 19:57:40] feat: update API endpoint interfaces
 [2026-03-04 18:01:38] refactor: streamline async workflows and coroutines
 [2026-03-04 09:39:08] feat: enhance UI responsiveness and theme tokens
+[2026-03-05 10:23:16] test: add unit test coverage for core components
