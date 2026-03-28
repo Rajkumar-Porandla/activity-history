@@ -580,3 +580,4 @@
 [2026-03-27 13:18:15] refactor: streamline async workflows and coroutines
 [2026-03-27 11:04:42] test: add unit test coverage for core components
 [2026-03-27 16:28:28] docs: update architecture notes and diagrams
+[2026-03-28 16:11:41] test: add unit test coverage for core components
