@@ -609,3 +609,4 @@
 [2026-04-08 18:00:16] docs: refine project documentation and setup guides
 [2026-04-08 21:34:44] fix: handle edge case in state management
 [2026-04-09 17:30:22] style: format codebase with linter standards
+[2026-04-09 14:49:59] docs: update architecture notes and diagrams
