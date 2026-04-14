@@ -618,3 +618,4 @@
 [2026-04-13 11:27:21] docs: update architecture notes and diagrams
 [2026-04-13 13:53:29] perf: optimize memory footprint and caching
 [2026-04-13 11:44:26] perf: optimize memory footprint and caching
+[2026-04-14 21:58:38] feat: implement helper functions and utilities
