@@ -633,3 +633,4 @@
 [2026-04-19 09:38:11] perf: optimize memory footprint and caching
 [2026-04-21 20:52:45] feat: enhance UI responsiveness and theme tokens
 [2026-04-21 17:12:52] feat: update API endpoint interfaces
+[2026-04-21 13:02:35] docs: update architecture notes and diagrams
