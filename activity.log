@@ -714,3 +714,4 @@
 [2026-05-23 12:28:25] perf: optimize memory footprint and caching
 [2026-05-24 12:21:11] feat: implement helper functions and utilities
 [2026-05-24 20:45:08] feat: experiment with model training configurations
+[2026-05-24 19:28:08] test: add unit test coverage for core components
