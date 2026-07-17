@@ -866,3 +866,4 @@
 [2026-07-15 15:58:57] refactor: improve modularity and clean code structure
 [2026-07-16 15:16:03] perf: optimize memory footprint and caching
 [2026-07-16 14:26:57] feat: optimize data processing pipeline
+[2026-07-17 20:24:05] docs: update architecture notes and diagrams
