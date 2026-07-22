@@ -880,3 +880,4 @@
 [2026-07-21 11:47:02] perf: optimize memory footprint and caching
 [2026-07-21 21:50:59] chore: update dependencies and build scripts
 [2026-07-21 16:42:12] feat: optimize data processing pipeline
+[2026-07-22 09:55:00] docs: update architecture notes and diagrams
