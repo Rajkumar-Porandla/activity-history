@@ -950,3 +950,4 @@
 [2026-08-12 13:17:50] refactor: streamline async workflows and coroutines
 [2026-08-14 18:16:09] fix: handle edge case in state management
 [2026-08-14 14:47:41] feat: optimize data processing pipeline
+[2026-08-14 18:50:17] docs: update architecture notes and diagrams
