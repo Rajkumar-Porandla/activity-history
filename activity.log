@@ -955,3 +955,4 @@
 [2026-08-15 20:29:14] feat: experiment with model training configurations
 [2026-08-15 10:46:22] docs: update architecture notes and diagrams
 [2026-08-16 10:22:19] chore: update dependencies and build scripts
+[2026-08-16 19:39:03] test: add unit test coverage for core components
