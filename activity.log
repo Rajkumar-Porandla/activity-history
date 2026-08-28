@@ -984,3 +984,4 @@
 [2026-08-26 11:15:25] feat: enhance UI responsiveness and theme tokens
 [2026-08-26 19:08:43] feat: experiment with model training configurations
 [2026-08-28 13:02:37] feat: update API endpoint interfaces
+[2026-08-28 12:49:41] test: add unit test coverage for core components
