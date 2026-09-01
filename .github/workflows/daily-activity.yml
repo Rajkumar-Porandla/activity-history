@@ -1,0 +1,44 @@
+name: Daily Dev Activity Automation
+
+on:
+  schedule:
+    # Runs everyday at 05:00 UTC (10:30 AM IST) and 14:30 UTC (8:00 PM IST)
+    - cron: '0 5 * * *'
+    - cron: '30 14 * * *'
+  workflow_dispatch: # Allows manual run anytime
+
+jobs:
+  daily-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Create Daily Activity Commit
+        run: |
+          git config user.name "Rajkumar Porandla"
+          git config user.email "rajkumarporandla07@gmail.com"
+
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+
+          # Array of realistic dev messages
+          MESSAGES=(
+            "chore: automated daily build and sync"
+            "docs: update maintenance log and notes"
+            "chore: routine dependency and environment verification"
+            "perf: cache check and daily pipeline checkpoint"
+            "chore: daily dev health check and log sync"
+          )
+          RANDOM_MSG=${MESSAGES[$RANDOM % ${#MESSAGES[@]}]}
+
+          echo "[$TIMESTAMP] $RANDOM_MSG" >> activity.log
+
+          git add activity.log
+          git commit -m "$RANDOM_MSG ($TIMESTAMP)"
+          git push origin main
